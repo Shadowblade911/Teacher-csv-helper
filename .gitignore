@@ -9,7 +9,8 @@
 /coverage
 
 # production
-/build
+# typically this wouldn't be committed, but it's being committed so it's easier for the intended user
+# /build
 
 # misc
 .DS_Store
